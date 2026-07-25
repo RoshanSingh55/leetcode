@@ -30,13 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RoshanSingh55/leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RoshanSingh55/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RoshanSingh55/leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/RoshanSingh55/leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/RoshanSingh55/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RoshanSingh55/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
