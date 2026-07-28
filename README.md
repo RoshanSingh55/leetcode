@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RoshanSingh55/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/RoshanSingh55/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/RoshanSingh55/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RoshanSingh55/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RoshanSingh55/leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanSingh55/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -205,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RoshanSingh55/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RoshanSingh55/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
