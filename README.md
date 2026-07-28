@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RoshanSingh55/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RoshanSingh55/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RoshanSingh55/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/RoshanSingh55/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/RoshanSingh55/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanSingh55/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RoshanSingh55/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RoshanSingh55/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
