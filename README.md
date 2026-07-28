@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/RoshanSingh55/leetcode/tree/master/2974-minimum-number-game) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/RoshanSingh55/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RoshanSingh55/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RoshanSingh55/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/RoshanSingh55/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RoshanSingh55/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Counting Sort
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/RoshanSingh55/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3895-count-digit-appearances](https://github.com/RoshanSingh55/leetcode/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/RoshanSingh55/leetcode/tree/master/1534-count-good-triplets) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
+## Geometry
+|  |
+| ------- |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
