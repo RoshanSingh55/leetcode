@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/RoshanSingh55/leetcode/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/RoshanSingh55/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2942-find-words-containing-character](https://github.com/RoshanSingh55/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/RoshanSingh55/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
 | [3895-count-digit-appearances](https://github.com/RoshanSingh55/leetcode/tree/master/3895-count-digit-appearances) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RoshanSingh55/leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/RoshanSingh55/leetcode/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
