@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/RoshanSingh55/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RoshanSingh55/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3895-count-digit-appearances](https://github.com/RoshanSingh55/leetcode/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RoshanSingh55/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RoshanSingh55/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RoshanSingh55/leetcode/tree/master/0498-diagonal-traverse) |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RoshanSingh55/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
 |  |
 | ------- |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+## Memoization
+|  |
+| ------- |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
