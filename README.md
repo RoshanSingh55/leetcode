@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/RoshanSingh55/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/RoshanSingh55/leetcode/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RoshanSingh55/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/RoshanSingh55/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanSingh55/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RoshanSingh55/leetcode/tree/master/0079-word-search) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RoshanSingh55/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/RoshanSingh55/leetcode/tree/master/2942-find-words-containing-character) |
 ## Divide and Conquer
