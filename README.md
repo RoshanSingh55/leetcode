@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RoshanSingh55/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/RoshanSingh55/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RoshanSingh55/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RoshanSingh55/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/RoshanSingh55/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/RoshanSingh55/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RoshanSingh55/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/RoshanSingh55/leetcode/tree/master/3895-count-digit-appearances) |
 ## Simulation
