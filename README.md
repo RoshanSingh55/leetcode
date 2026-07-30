@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RoshanSingh55/leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanSingh55/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/RoshanSingh55/leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/RoshanSingh55/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanSingh55/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3668-restore-finishing-order](https://github.com/RoshanSingh55/leetcode/tree/master/3668-restore-finishing-order) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RoshanSingh55/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanSingh55/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RoshanSingh55/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RoshanSingh55/leetcode/tree/master/0079-word-search) |
+| [0387-first-unique-character-in-a-string](https://github.com/RoshanSingh55/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/RoshanSingh55/leetcode/tree/master/0709-to-lower-case) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RoshanSingh55/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RoshanSingh55/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/RoshanSingh55/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
