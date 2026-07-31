@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RoshanSingh55/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/RoshanSingh55/leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/RoshanSingh55/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RoshanSingh55/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RoshanSingh55/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/RoshanSingh55/leetcode/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RoshanSingh55/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RoshanSingh55/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanSingh55/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RoshanSingh55/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RoshanSingh55/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanSingh55/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
