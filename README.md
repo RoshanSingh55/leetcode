@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RoshanSingh55/leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RoshanSingh55/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Matrix
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RoshanSingh55/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RoshanSingh55/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Search Tree
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RoshanSingh55/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Bit Manipulation
 |  |
