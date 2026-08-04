@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RoshanSingh55/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/RoshanSingh55/leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/RoshanSingh55/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/RoshanSingh55/leetcode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/RoshanSingh55/leetcode/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RoshanSingh55/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3668-restore-finishing-order](https://github.com/RoshanSingh55/leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/RoshanSingh55/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RoshanSingh55/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3731-find-missing-elements](https://github.com/RoshanSingh55/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
