@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RoshanSingh55/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RoshanSingh55/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/RoshanSingh55/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RoshanSingh55/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/RoshanSingh55/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RoshanSingh55/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RoshanSingh55/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RoshanSingh55/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/RoshanSingh55/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RoshanSingh55/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RoshanSingh55/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RoshanSingh55/leetcode/tree/master/0263-ugly-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RoshanSingh55/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshanSingh55/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/RoshanSingh55/leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
