@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RoshanSingh55/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RoshanSingh55/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RoshanSingh55/leetcode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/RoshanSingh55/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/RoshanSingh55/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanSingh55/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RoshanSingh55/leetcode/tree/master/0877-stone-game) |
@@ -275,10 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RoshanSingh55/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RoshanSingh55/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RoshanSingh55/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RoshanSingh55/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/RoshanSingh55/leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
