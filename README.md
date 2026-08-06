@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/RoshanSingh55/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RoshanSingh55/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RoshanSingh55/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/RoshanSingh55/leetcode/tree/master/3895-count-digit-appearances) |
 ## Simulation
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/RoshanSingh55/leetcode/tree/master/1534-count-good-triplets) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RoshanSingh55/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
