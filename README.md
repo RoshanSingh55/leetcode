@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RoshanSingh55/leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/RoshanSingh55/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanSingh55/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RoshanSingh55/leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/RoshanSingh55/leetcode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/RoshanSingh55/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RoshanSingh55/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanSingh55/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RoshanSingh55/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RoshanSingh55/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/RoshanSingh55/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Number Theory
 |  |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/RoshanSingh55/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RoshanSingh55/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 ## Breadth-First Search
 |  |
@@ -303,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/RoshanSingh55/leetcode/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
