@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RoshanSingh55/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/RoshanSingh55/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/RoshanSingh55/leetcode/tree/master/2235-add-two-integers) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RoshanSingh55/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,8 +320,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
