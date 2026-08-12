@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/RoshanSingh55/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/RoshanSingh55/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/RoshanSingh55/leetcode/tree/master/2942-find-words-containing-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RoshanSingh55/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/RoshanSingh55/leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RoshanSingh55/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/RoshanSingh55/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanSingh55/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RoshanSingh55/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RoshanSingh55/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RoshanSingh55/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RoshanSingh55/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/RoshanSingh55/leetcode/tree/master/3668-restore-finishing-order) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RoshanSingh55/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RoshanSingh55/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
