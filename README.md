@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RoshanSingh55/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/RoshanSingh55/leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/RoshanSingh55/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RoshanSingh55/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/RoshanSingh55/leetcode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/RoshanSingh55/leetcode/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RoshanSingh55/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RoshanSingh55/leetcode/tree/master/0342-power-of-four) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RoshanSingh55/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RoshanSingh55/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
