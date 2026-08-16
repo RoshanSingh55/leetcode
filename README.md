@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/RoshanSingh55/leetcode/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1991-find-the-middle-index-in-array](https://github.com/RoshanSingh55/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RoshanSingh55/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RoshanSingh55/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RoshanSingh55/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanSingh55/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RoshanSingh55/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/RoshanSingh55/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/RoshanSingh55/leetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/RoshanSingh55/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RoshanSingh55/leetcode/tree/master/0011-container-with-most-water) |
 | [1792-maximum-average-pass-ratio](https://github.com/RoshanSingh55/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -353,15 +358,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
