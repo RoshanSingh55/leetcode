@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RoshanSingh55/leetcode/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/RoshanSingh55/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/RoshanSingh55/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/RoshanSingh55/leetcode/tree/master/2235-add-two-integers) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RoshanSingh55/leetcode/tree/master/0011-container-with-most-water) |
 | [1792-maximum-average-pass-ratio](https://github.com/RoshanSingh55/leetcode/tree/master/1792-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/RoshanSingh55/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/RoshanSingh55/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/RoshanSingh55/leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RoshanSingh55/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/RoshanSingh55/leetcode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RoshanSingh55/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RoshanSingh55/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RoshanSingh55/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/RoshanSingh55/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
