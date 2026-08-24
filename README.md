@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/RoshanSingh55/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1792-maximum-average-pass-ratio](https://github.com/RoshanSingh55/leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/RoshanSingh55/leetcode/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1991-find-the-middle-index-in-array](https://github.com/RoshanSingh55/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RoshanSingh55/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RoshanSingh55/leetcode/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RoshanSingh55/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/RoshanSingh55/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/RoshanSingh55/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/RoshanSingh55/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/RoshanSingh55/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/RoshanSingh55/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/RoshanSingh55/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RoshanSingh55/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RoshanSingh55/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RoshanSingh55/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
@@ -383,12 +388,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RoshanSingh55/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RoshanSingh55/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
