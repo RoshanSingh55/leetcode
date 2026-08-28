@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RoshanSingh55/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RoshanSingh55/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RoshanSingh55/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RoshanSingh55/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RoshanSingh55/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RoshanSingh55/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RoshanSingh55/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
