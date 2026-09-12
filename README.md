@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RoshanSingh55/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RoshanSingh55/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/RoshanSingh55/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RoshanSingh55/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RoshanSingh55/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RoshanSingh55/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/RoshanSingh55/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RoshanSingh55/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RoshanSingh55/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/RoshanSingh55/leetcode/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/RoshanSingh55/leetcode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RoshanSingh55/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RoshanSingh55/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3731-find-missing-elements](https://github.com/RoshanSingh55/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RoshanSingh55/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/RoshanSingh55/leetcode/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RoshanSingh55/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RoshanSingh55/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
