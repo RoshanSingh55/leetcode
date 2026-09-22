@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RoshanSingh55/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/RoshanSingh55/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/RoshanSingh55/leetcode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/RoshanSingh55/leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/RoshanSingh55/leetcode/tree/master/0518-coin-change-ii) |
