@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RoshanSingh55/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RoshanSingh55/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanSingh55/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RoshanSingh55/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RoshanSingh55/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RoshanSingh55/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/RoshanSingh55/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RoshanSingh55/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RoshanSingh55/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/RoshanSingh55/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/RoshanSingh55/leetcode/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/RoshanSingh55/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RoshanSingh55/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RoshanSingh55/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RoshanSingh55/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RoshanSingh55/leetcode/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RoshanSingh55/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RoshanSingh55/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RoshanSingh55/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/RoshanSingh55/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/RoshanSingh55/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
