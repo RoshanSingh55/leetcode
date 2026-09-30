@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/RoshanSingh55/leetcode/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/RoshanSingh55/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RoshanSingh55/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RoshanSingh55/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RoshanSingh55/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanSingh55/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RoshanSingh55/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RoshanSingh55/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RoshanSingh55/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RoshanSingh55/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanSingh55/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RoshanSingh55/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RoshanSingh55/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RoshanSingh55/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RoshanSingh55/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
