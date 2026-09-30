@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RoshanSingh55/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RoshanSingh55/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RoshanSingh55/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RoshanSingh55/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/RoshanSingh55/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RoshanSingh55/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RoshanSingh55/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/RoshanSingh55/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RoshanSingh55/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RoshanSingh55/leetcode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RoshanSingh55/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RoshanSingh55/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RoshanSingh55/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RoshanSingh55/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RoshanSingh55/leetcode/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/RoshanSingh55/leetcode/tree/master/0835-image-overlap) |
 | [1504-count-submatrices-with-all-ones](https://github.com/RoshanSingh55/leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RoshanSingh55/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RoshanSingh55/leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/RoshanSingh55/leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/RoshanSingh55/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
@@ -503,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RoshanSingh55/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RoshanSingh55/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
