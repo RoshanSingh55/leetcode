@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/RoshanSingh55/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/RoshanSingh55/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RoshanSingh55/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanSingh55/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/RoshanSingh55/leetcode/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RoshanSingh55/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RoshanSingh55/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RoshanSingh55/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RoshanSingh55/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanSingh55/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RoshanSingh55/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RoshanSingh55/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RoshanSingh55/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RoshanSingh55/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanSingh55/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/RoshanSingh55/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RoshanSingh55/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RoshanSingh55/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
